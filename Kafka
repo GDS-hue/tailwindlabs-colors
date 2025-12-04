@@ -1,9 +1,0 @@
-"Give steps" – if you want manual UI steps
-
-"Give CLI command" – if you want GitHub CLI (gh) command
-
-"Write review request message" – if you need a text template
-
-"Create workflow" – to auto-assign reviewer via actions
-
-Example options you can reply with:
